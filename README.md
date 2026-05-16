@@ -1,6 +1,6 @@
 # 🏎️ Formula 1 Racing — Exploratory Data Analysis
 
-A clean, beginner-friendly data analysis project built with Python.
+A Data analysis project built with Python.
 Answers 7 business questions about Formula 1 racing using real data from 1950 to 2026.
 
 ---
@@ -40,24 +40,6 @@ Install the required Python libraries (if not already installed):
 ```bash
 pip install pandas matplotlib seaborn
 ```
-
-Install the following VS Code extensions:
-- **Python** (by Microsoft)
-- **Jupyter** (by Microsoft)
-
-### Running the analysis
-
-1. Open `f1_analysis_vscode.py` in VS Code
-2. VS Code will automatically show **"Run Cell"** buttons above every `# %%` marker
-3. Click **"Run All Cells"** in the toolbar to run the full analysis
-4. Charts appear inline in the **Interactive Panel** on the right side
-5. All charts are also saved to the `charts/` folder automatically
-
-> **Tip:** If you don't see "Run Cell" buttons, make sure the Jupyter extension
-> is installed and that your Python environment is selected (bottom-left corner of VS Code).
-
----
-
 ## ❓ Business Questions Answered
 
 | # | Question | Key Finding |
@@ -123,5 +105,3 @@ The code is intentionally written to be **readable by beginners**.
 - **Germany and Britain** produce the most Q2-qualifying drivers by a wide margin
 
 ---
-
-*Dataset sourced from public F1 historical records. Analysis is for educational and portfolio purposes.*
