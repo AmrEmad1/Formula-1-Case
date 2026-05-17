@@ -79,9 +79,6 @@ pip install pandas matplotlib seaborn
 | `matplotlib` | ≥ 3.5 | Base charting engine |
 | `seaborn` | ≥ 0.12 | Styled, higher-level charts |
 
-No machine learning, no complex SQL, no advanced Python patterns.
-The code is intentionally written to be **readable by beginners**.
-
 ---
 
 ## 🧹 Data Cleaning Decisions
